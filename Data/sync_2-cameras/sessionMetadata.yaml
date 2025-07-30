@@ -1,0 +1,22 @@
+augmentermodel: v0.3
+calibrationSettings:
+  overwriteDeployedIntrinsics: false
+  saveSessionIntrinsics: false
+checkerBoard:
+  black2BlackCornersHeight_n: 4
+  black2BlackCornersWidth_n: 5
+  placement: Lying
+  squareSideLength_mm: 35.0
+filterfrequency: default
+gender_mf: null
+height_m: 1.82
+iphoneModel:
+  Cam0: iPhone17,1
+  Cam1: iPhone17,3
+markerAugmentationSettings:
+  markerAugmenterModel: LSTM
+mass_kg: 100.0
+openSimModel: LaiUhlrich2022
+posemodel: hrnet
+scalingsetup: upright_standing_pose
+subjectID: p1
